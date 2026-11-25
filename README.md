@@ -21,6 +21,7 @@ Building Minecraft servers, plugins and the web platforms around them.
 - 🏗️ I run and build **One Life Hardcore**, a hardcore Minecraft network where you only get one life
 - ☕ I write **Java** plugins for Paper and Velocity, and full-stack **Node.js, React and TypeScript** for the web side
 - 🖥️ I handle the whole stack myself: Linux servers, nginx, proxies, databases, Discord bots
+- 🔭 Currently working on **Semi Hardcore**, our second server (launched November 2026): Blood Moons, raids and relics
 - 🎮 And when I'm not building, I'm gaming
 
 ## 🚀 Featured project
@@ -79,41 +80,34 @@ A real hardcore Minecraft SMP, where death actually matters: two survival server
 [![Library](https://img.shields.io/badge/Library-500_games-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/IkBrian/)
 ![FPS](https://img.shields.io/badge/FPS-ef4444?style=flat-square)
 ![Survival horror](https://img.shields.io/badge/Survival_horror-7c3aed?style=flat-square)
-![Survival & sandbox](https://img.shields.io/badge/Survival_%26_sandbox-16a34a?style=flat-square)
-![Open world](https://img.shields.io/badge/Open_world-f59e0b?style=flat-square)
+![Sandbox & survival](https://img.shields.io/badge/Sandbox_%26_survival-16a34a?style=flat-square)
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" colspan="3" width="50%">
+<a href="https://onelifehardcore.net"><img src="assets/minecraft.png" alt="Minecraft"></a><br/>
+<b>Minecraft</b><br/><sub>Sandbox · survival · I run my own server</sub>
+</td>
+<td align="center" colspan="3" width="50%">
 <a href="https://store.steampowered.com/app/1938090/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/header.jpg" alt="Call of Duty"></a><br/>
 <b>Call of Duty</b><br/><sub>FPS · 1,400+ hours</sub>
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" colspan="2" width="33%">
 <a href="https://store.steampowered.com/app/1304930/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1304930/header.jpg" alt="The Outlast Trials"></a><br/>
 <b>The Outlast Trials</b><br/><sub>Co-op survival horror</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" colspan="2" width="33%">
 <a href="https://store.steampowered.com/app/1326470/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/header.jpg" alt="Sons of the Forest"></a><br/>
 <b>Sons of the Forest</b><br/><sub>Survival horror</sub>
 </td>
-</tr>
-<tr>
-<td align="center">
+<td align="center" colspan="2" width="33%">
 <a href="https://store.steampowered.com/app/1196590/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/header.jpg" alt="Resident Evil Village"></a><br/>
 <b>Resident Evil Village</b><br/><sub>Survival horror</sub>
 </td>
-<td align="center">
-<a href="https://store.steampowered.com/app/1621690/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1621690/header.jpg" alt="Core Keeper"></a><br/>
-<b>Core Keeper</b><br/><sub>Sandbox · survival</sub>
-</td>
-<td align="center">
-<a href="https://store.steampowered.com/app/2369390/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/header.jpg" alt="Far Cry 6"></a><br/>
-<b>Far Cry 6</b><br/><sub>Open-world FPS</sub>
-</td>
 </tr>
 </table>
-
-<sub>…and of course <b>Minecraft</b>, every day. Come play on <code>play.onelifehardcore.net</code></sub>
 
 </div>
 
